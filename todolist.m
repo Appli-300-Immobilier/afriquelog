@@ -6,9 +6,9 @@
 - **Address/Contact:** 
   - Services
   - 
-  - Sp�cialit�s
+  - Spécialités
   - Curbside pickup
-  - Coordonn�es
+  - Coordonnées
   - 
   - +225 0700337777
   - 
