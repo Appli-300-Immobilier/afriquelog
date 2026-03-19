@@ -4,18 +4,9 @@
 - **Company Name:** Afriquelog
 - **Directory:** afriquelog
 - **Address/Contact:** 
-  - Services
-  - 
-  - Spécialités
-  - Curbside pickup
-  - Coordonnées
-  - 
-  - +225 0700337777
-  - 
-  - +225 0700337777
-  - 
-  - Afriquelog
-- **Description:** https://www.facebook.com/AfriqueLOG
+  - Abidjan, Côte d'Ivoire
+  - +225 070 033 7777
+- **Description::** https://www.facebook.com/AfriqueLOG
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
 

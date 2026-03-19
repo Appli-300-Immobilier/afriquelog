@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **Afriquelog**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 0700337777
+* **Contact :** +225 070 033 7777
 * **Email :** contact@afriquelog.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/2250700337777)
 
